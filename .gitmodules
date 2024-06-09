@@ -1,0 +1,3 @@
+[submodule "tp_stubz"]
+	path = tp_stubz
+	url = https://github.com/krkrsdl2/tp_stubz

@@ -1,3 +1,4 @@
+#define NO_V2LINK 1
 #ifndef NO_V2LINK
 #include <windows.h>
 #endif
@@ -6,7 +7,9 @@
 #include <stdio.h>
 #include <string>
 
+#ifndef NO_V2LINK
 typedef unsigned long ULONG;
+#endif
 
 // initStorage/parseStorageの読み込みデフォルトを吉里吉里組み込みのTextStreamにする場合は1
 // 
