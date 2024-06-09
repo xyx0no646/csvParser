@@ -13,6 +13,8 @@ manual.tjs 参照
 
 このプラグインのライセンスは吉里吉里本体に準拠してください。
 
+https://github.com/wtnbgo/csvParser
+
 追記
 
 吉里吉里SDL2に移植しました。
