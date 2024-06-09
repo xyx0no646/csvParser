@@ -12,3 +12,11 @@ manual.tjs 参照
 ●ライセンス
 
 このプラグインのライセンスは吉里吉里本体に準拠してください。
+
+追記
+
+吉里吉里SDL2に移植しました。
+移植者：蜜柑ぷり
+
+参考：
+https://github.com/krkrsdl2/KAGParser/releases
