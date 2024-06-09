@@ -234,7 +234,7 @@
 			"runs-on": "ubuntu-20.04",
 			"steps": [
 				{
-					"uses": "actions/download-artifact@v3",
+					"uses": "actions/download-artifact@v2",
 					"name": "Download all artifacts"
 				},
 				{
