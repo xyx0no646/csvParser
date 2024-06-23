@@ -272,7 +272,7 @@
 					"name": "Set up default build tools"
 				},
 				{
-					"run": "cmake -S . -B build",
+					"run": " env CMAKE_OSX_ARCHITECTURES='x86_64;arm64' cmake -S . -B build",
 					"name": "Configure project"
 				},
 				{
